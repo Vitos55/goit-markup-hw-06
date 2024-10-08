@@ -264,7 +264,7 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/hero/office.jpg);
+    url(../images/hero/hero-mob.jpg);
   max-width: 320px;
   background-position: center;
   background-repeat: no-repeat;
@@ -280,7 +280,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero/office.jpg);
+      url(../images/hero/hero-mob@2x.jpg);
   }
 }
 
