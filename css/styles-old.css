@@ -395,7 +395,7 @@ a {
 
 /* ============ Page Footer ============ */
 
-.page-footer {
+/* .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
   align-items: baseline;
@@ -516,11 +516,11 @@ a {
   color: #ffffff;
   border: none;
   background-color: #404bbf;
-}
+} */
 
 /* ============ Page Footer ============ */
 
-/* ------------ Modal ------------ */
+/* ========== Modal ========== */
 .backdrop {
   position: fixed;
   top: 0;

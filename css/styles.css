@@ -79,7 +79,7 @@ button {
     padding: 0 15px;
   }
 }
-/*------ HEADER ------*/
+/*========== HEADER SECTION ==========*/
 
 .page-header {
   border-bottom: 1px solid #e7e9fc;
@@ -254,8 +254,8 @@ button {
 .mobile-nav {
   margin-bottom: auto;
 }
-
-/* ------------ HERO SECTION ------------ */
+/*========== HEADER SECTION ==========*/
+/*========== HERO SECTION ==========*/
 
 .hero-section {
   padding: 72px 0px;
@@ -330,7 +330,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero/office.jpg);
+      url(../images/hero/hero-tab.jpg);
   }
   /* -Додати 2Х для планшету- */
   @media screen and (min-device-pixel-ratio: 2),
@@ -341,7 +341,7 @@ button {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/hero/office.jpg);
+        url(../images/hero/hero-tab@2x.jpg);
     }
   }
   .main-title {
@@ -359,7 +359,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero/office.jpg);
+      url(../images/hero/hero-dtop.jpg);
     max-width: 1440px;
   }
 
@@ -372,7 +372,7 @@ button {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/hero/office.jpg);
+        url(../images/hero/hero-dtop@2x.jpg);
     }
   }
 
@@ -808,3 +808,6 @@ button {
   }
 }
 /*============ Page Footer ============ */
+/*============ Modal ============ */
+
+/*============ Modal ============ */
