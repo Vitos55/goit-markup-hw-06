@@ -300,8 +300,34 @@ button {
 .mobile-nav-link {
   color: #2e2f42;
 }
-.mobile-contacts {
+
+.studio-adress,
+.number-adress {
+  color: #404bbf;
+}
+
+.mobile-contacts-list {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 24px;
+}
+
+.mobile-contacts-link {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #434455;
   margin-top: 168px;
+}
+
+.mobile-contacts-item {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-style: normal;
 }
 
 .media-list.mobile {
