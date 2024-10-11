@@ -57,16 +57,16 @@
             </li>
           </ul>
         </address>
-        <button class="burger-btn" type="button">
+        <button class="burger-btn" type="button" data-menu-open>
           <svg class="burger-icon" width="24" height="24">
             <use href="./images/icons.svg#icon-burger-btn"></use>
           </svg>
         </button>
       </div>
       <!-- Menu mobile -->
-      <div class="mobile-menu is-open">
+      <div class="mobile-menu is-open" data-menu>
         <div class="mobile-menu-container container">
-          <button class="mobile-menu-close-btn" type="button" data-modal-close>
+          <button class="mobile-menu-close-btn" type="button" data-menu-close>
             <svg class="mobile-menu-close-icon" width="8" height="8">
               <use href="./images/icons.svg#icon-close"></use>
             </svg>
@@ -832,6 +832,7 @@
       </div>
     </div>
     <script src="./js/modal.js"></script>
+    <script src="./js/menu.js"></script>
   </body>
 </html>
 
